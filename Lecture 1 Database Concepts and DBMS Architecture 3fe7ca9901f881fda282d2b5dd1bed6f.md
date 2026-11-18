@@ -1,7 +1,7 @@
 # Lecture 1: Database Concepts and DBMS Architecture
 
 <aside>
-🎯
+
 
 **Legend:** 🔴 = you wrote **MCQ** next to it, 📝 = I wrote **mid-term** next to it. Exam-marked items for the course are collected on the course page.
 
