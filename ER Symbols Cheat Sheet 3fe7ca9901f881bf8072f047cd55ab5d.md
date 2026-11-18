@@ -9,7 +9,6 @@ Every drawing and symbol from the ER model lectures in one place. The drawings b
 
 [ER symbols, drawn](er_symbols.html)
 
-ER symbols, drawn
 
 ## Text Summary (if the drawing does not load)
 
